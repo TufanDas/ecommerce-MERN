@@ -1,0 +1,6 @@
+export const USER_ROLES = {
+    ADMIN: "ADMIN",
+    SELLER: "SELLER",
+    BUSINESS_PARTNER: "BUSINESS_PARTNER",
+    END_USER: "END_USER",
+};  
